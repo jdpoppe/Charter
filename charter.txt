@@ -1,0 +1,31 @@
+Group Name: 
+
+Availability for meeting expectations
+- Not meeting everyday
+- Once a week: 30 minutes 
+  - Friday: 12:00-12:30
+  - Meeting one discord
+- 3 hours max for getting project parts done
+- If there's need for a meeting, try to make it work
+Response time to communication expectations
+- Same day, within 24 
+- Give a heads up if you can't make it to the meeting 
+  - Make a short text summary of what you've been up to
+Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
+- Decide at friday meetings
+  - Once code reviewed and merged
+Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
+- Not meeting everyday
+- Fridays are our scrum: 15 minutes to scrum and 15 to merging 
+  - First 15 for merging, second 15 for scrum
+- Be in the meeting, pay attetion
+- Each person will have a week of taking notes to submit, and taking screen shot of trillo 
+Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
+if you adopt such a policy during the initial meeting, put it here
+- Have comments 
+- Code in a easy to understand and easy to do for the participants
+- Do pycharm suggestions for style
+Procedure for handling a member who is not meeting expectations
+must include at least 3 actions before involving the instructor
+- 
+Signatures: each member must sign their name by typing their name at the bottom of the document.
